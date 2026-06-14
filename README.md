@@ -5,7 +5,7 @@ This sound is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.git
 		"WakeUp": {
 			"version": "1.0",
 			"name": "WakeUp",
-			"SOUND_PLAY": "https://raw.githubusercontent.com/halimgambit/zen.mp3/main/zen.mp3",
+			"SOUND_PLAY": "https://raw.githubusercontent.com/halimgambit/alarmWakeUp.mp3/main/zen.mp3",
 			"rules": {
 				"getTimer": ["wake up"]
 			}
